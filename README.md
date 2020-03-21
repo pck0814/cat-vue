@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84790ed5-0cbe-411f-b515-1ceb4dccfc74/deploy-status)](https://app.netlify.com/sites/laughing-fermi-6d8c35/deploys)
+
 # 基礎から学ぶ Vue.js 書籍用サポートページ
 
 <p align="center"><a href="https://cr-vue.mio3io.com/"><img src="./docs/.vuepress/public/images/nya-n.png"></a></p>
